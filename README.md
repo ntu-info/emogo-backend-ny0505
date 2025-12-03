@@ -26,13 +26,13 @@ Or simply click:
 
 ## Data Export Page
 
-The data exporting/downloading page can be found at: [https://emogo-backend-ny0505.onrender.com/data](https://emogo-backend-ny0505.onrender.com/data)
+The data exporting/downloading page can be found at: [https://emogo-backend.onrender.com/data](https://emogo-backend.onrender.com/data)
 
 ## Data Export Page
 
 The URI for the data-exporting/downloading page is:
 
-[https://emogo-backend-ny0505.onrender.com/data](https://emogo-backend-ny0505.onrender.com/data)
+[https://emogo-backend.onrender.com/data](https://emogo-backend.onrender.com/data)
 
 From this page, you can see and download all three types of data collected: vlogs, sentiments, and GPS coordinates.
 
