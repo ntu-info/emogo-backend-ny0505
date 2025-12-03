@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EmoGo Data</title>
+</head>
+<body>
+    <h1>EmoGo Data</h1>
+
+    <h2>Vlogs</h2>
+    <a href="/data/vlogs" download>Download Vlogs JSON</a>
+    <ul>
+    {% for vlog in vlogs %}
+        <li>User: {{ vlog.user_id }} - <a href="{{ vlog.video_url }}" target="_blank" download>Download Video</a></li>
+    {% endfor %}
+    </ul>
+
+    <h2>Sentiments</h2>
+    <a href="/data/sentiments" download>Download Sentiments JSON</a>
+    <ul>
+    {% for sentiment in sentiments %}
+        <li>{{ sentiment }}</li>
+    {% endfor %}
+    </ul>
+
+    <h2>GPS Coordinates</h2>
+    <a href="/data/gps" download>Download GPS JSON</a>
+    <ul>
+    {% for gps_coord in gps %}
+        <li>{{ gps_coord }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>

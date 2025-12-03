@@ -1,1 +1,5 @@
 fastapi[all]
+pymongo
+python-dotenv
+uvicorn
+Jinja2

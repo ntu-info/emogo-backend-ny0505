@@ -24,6 +24,10 @@ Or simply click:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
 
+## Data Export Page
+
+The data exporting/downloading page can be found at: [https://emogo-backend-ny0505.onrender.com/data](https://emogo-backend-ny0505.onrender.com/data)
+
 ## Thanks
 
 Thanks to [Harish](https://harishgarg.com) for the [inspiration to create a FastAPI quickstart for Render](https://twitter.com/harishkgarg/status/1435084018677010434) and for some sample code!
