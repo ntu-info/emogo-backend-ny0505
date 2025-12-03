@@ -28,6 +28,14 @@ Or simply click:
 
 The data exporting/downloading page can be found at: [https://emogo-backend-ny0505.onrender.com/data](https://emogo-backend-ny0505.onrender.com/data)
 
+## Data Export Page
+
+The URI for the data-exporting/downloading page is:
+
+[https://emogo-backend-ny0505.onrender.com/data](https://emogo-backend-ny0505.onrender.com/data)
+
+From this page, you can see and download all three types of data collected: vlogs, sentiments, and GPS coordinates.
+
 ## Thanks
 
 Thanks to [Harish](https://harishgarg.com) for the [inspiration to create a FastAPI quickstart for Render](https://twitter.com/harishkgarg/status/1435084018677010434) and for some sample code!
